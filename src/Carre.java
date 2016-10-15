@@ -34,3 +34,5 @@ public class Carre extends Tout {
 
 
 }
+
+// extends Rectangle
