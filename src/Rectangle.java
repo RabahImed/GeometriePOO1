@@ -3,8 +3,8 @@
  */
 public abstract class Rectangle extends Tout {
 
-    double longueur;
-    double largueur;
+    protected double longueur;
+   protected double largueur;
 
 
     public Rectangle(){
