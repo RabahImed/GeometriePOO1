@@ -2,7 +2,7 @@
  * Created by RabahLordImed on 07/10/2016.
  */
 public class Carre extends Tout {
-
+/* comment by Asmaa Bengueddach : tres bonne utilisation de l'heritage */
     public Carre(){
     }
 
